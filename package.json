@@ -1,0 +1,6 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "dprint": "^0.43.2"
+  }
+}
